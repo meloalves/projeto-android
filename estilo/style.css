@@ -154,7 +154,6 @@ main img.pequena {
 }
 
 div.video {
-    display: flex;
     background-color: #00261C;
     margin: 0px -20px 30px -20px;
     padding: 20px;
