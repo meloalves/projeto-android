@@ -155,11 +155,10 @@ main img.pequena {
 }
 
 div.video {
-    display: block;
     background-color: #00261C;
     margin: 0px -20px 30px -20px;
     padding: 20px;
-    padding-bottom: 50%;
+    padding-bottom: 58%;
     position: relative;
 
 }
